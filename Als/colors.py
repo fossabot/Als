@@ -1,4 +1,5 @@
 #colors.py
+
 """
 Python program to print
 colored text and background
