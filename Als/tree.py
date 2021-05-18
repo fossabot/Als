@@ -1,6 +1,8 @@
 # tree.py
 
-"""This module provides Tree module for Als."""
+"""
+This module provides Tree module for Als
+"""
 
 import os
 import pathlib
