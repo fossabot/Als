@@ -6,7 +6,7 @@ except ImportError:
 
 setup(
     name='Als',
-    version='0.0.1',
+    version='0.0.1-alpha',
     description="Python-based Advanced version of Bash's \"ls\"",
     author='UltraStudioLTD (Luka Mamukashvili)',
     author_email='ultraluka0@gmail.com',
