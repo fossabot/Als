@@ -5,7 +5,7 @@ Top-level package for Als
 """
 
 __package__ = "Als"
-__version__ = "0.0.1"
+__version__ = "0.0.1-alpha"
 __packagelinks__ = """
     "GitHub": "https://www.github.com/UltraStudioLTD/Als"
     """
