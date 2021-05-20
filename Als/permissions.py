@@ -1,3 +1,4 @@
+#!python3
 #permissions.py
 """
 File permissions finder module for Als

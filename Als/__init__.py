@@ -1,3 +1,4 @@
+#!python3
 # __init__.py
 """
 Top-level package for Als

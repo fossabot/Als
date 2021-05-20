@@ -1,3 +1,4 @@
+#!python3
 #ls.py
 """
 \"ls\" module for Als
