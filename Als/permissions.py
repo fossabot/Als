@@ -1,4 +1,4 @@
-#!python3
+#!/usr/bin/env python
 #permissions.py
 """
 File permissions finder module for Als
